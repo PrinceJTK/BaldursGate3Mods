@@ -1,0 +1,176 @@
+{
+  "Order": [
+    {
+      "UUID": "67fbbd53-7c7d-4cfa-9409-6d737b4d92a9",
+      "Name": "CompatibilityFramework"
+    },
+    {
+      "UUID": "396c5966-09b0-40a1-af3f-93a5e9ce71c0",
+      "Name": "CommunityLibrary"
+    },
+    {
+      "UUID": "fb5f528d-4d48-4bf2-a668-2274d3cfba96",
+      "Name": "5eSpells"
+    },
+    {
+      "UUID": "d903677e-f24b-48ec-ab20-98dcc116a371",
+      "Name": "UnlockLevelCurve"
+    },
+    {
+      "UUID": "cf0b4eed-8b58-4981-8ab8-bf210d4db97b",
+      "Name": "UnlockLevelCurve_Patch_5eSpells"
+    },
+    {
+      "UUID": "e53ae4b5-a922-47ef-b69d-d55c5745a65b",
+      "Name": "UnlockLevelCurve_Patch_Double"
+    },
+    {
+      "UUID": "22b848d1-5fff-4f76-a4f8-8461721e6112",
+      "Name": "EldertideArmament"
+    },
+    {
+      "UUID": "7d388aee-a224-4934-8107-5a145e8a6311",
+      "Name": "LeggyEquip_SHV"
+    },
+    {
+      "UUID": "7f1faf48-c50b-4a5a-b66b-7cdda8653962",
+      "Name": "Ancient Jewelry Roleplay"
+    },
+    {
+      "UUID": "9538f464-f01b-4a91-af4d-5be9347d96a7",
+      "Name": "Master's Cloaks Roleplay"
+    },
+    {
+      "UUID": "rings00-0000-0000-0000-xxSeymordius",
+      "Name": "Rings Expanded - Immersive"
+    },
+    {
+      "UUID": "061529e0-ddab-402e-a3ed-53caf7701290",
+      "Name": "LegendaryItems"
+    },
+    {
+      "UUID": "e956d624-aaf0-4fc0-8604-9b111a3c55d5",
+      "Name": "LegendaryItemsLootTables1"
+    },
+    {
+      "UUID": "b6135a3d-ebf6-437c-9983-04bd906427ed",
+      "Name": "LegendaryItemsNoDarkPact"
+    },
+    {
+      "UUID": "88fadf2c-152d-404e-b863-c12273559e1c",
+      "Name": "Artificer"
+    },
+    {
+      "UUID": "a35b2cf8-5047-487a-83a4-537d36245b6b",
+      "Name": "Artificer-5e-Addon"
+    },
+    {
+      "UUID": "411d5c6e-2bd5-4e4e-ab72-67dcc37b8c0e",
+      "Name": "Blood Hunter"
+    },
+    {
+      "UUID": "eef7b885-1423-4096-abd6-7a5db5f871db",
+      "Name": "Clerics"
+    },
+    {
+      "UUID": "36ffab06-d6b3-4cbb-8e9f-f16a01c06473",
+      "Name": "Death Domain"
+    },
+    {
+      "UUID": "a951d531-dd86-4ff6-8d96-a5358fa95821",
+      "Name": "Drakewarden"
+    },
+    {
+      "UUID": "00956b6f-8b55-4879-bd46-68d1ba7ef31b",
+      "Name": "EyesOfTheBeholder"
+    },
+    {
+      "UUID": "080edc42-9ec0-446f-a9c2-792d5bdf4686",
+      "Name": "FFT_WizardTraditions_Runesmith"
+    },
+    {
+      "UUID": "be37a0e6-f2bc-46f3-b98d-8cfbe977053a",
+      "Name": "FFT_WizardTraditions_WarMagic"
+    },
+    {
+      "UUID": "32cf2ce3-b7f1-48c2-85b3-6ed38a09de1a",
+      "Name": "Harlequin Class"
+    },
+    {
+      "UUID": "0e5d7cbb-1728-4b1a-9473-cf4f4992e51f",
+      "Name": "AlternateMonk"
+    },
+    {
+      "UUID": "58cfcdb2-c1b3-440c-8742-078f2b0e7a32",
+      "Name": "AlternateMonk5ESpells Patch"
+    },
+    {
+      "UUID": "ecded3d3-4405-4cff-91e3-2be0f1fd9755",
+      "Name": "AlternateMonkDialoguePatch"
+    },
+    {
+      "UUID": "e1eb6d1a-5922-4964-bfd7-c971e71e351a",
+      "Name": "Hexblade"
+    },
+    {
+      "UUID": "ab267ed4-b3b5-4b4f-a62c-7dbc95c968fa",
+      "Name": "Aasimar"
+    },
+    {
+      "UUID": "a827da36-4086-4d47-9945-f45555555555",
+      "Name": "Magus"
+    },
+    {
+      "UUID": "67cbd005-166c-4f76-b822-a19a4a41e615",
+      "Name": "newsamurai"
+    },
+    {
+      "UUID": "b986a6b0-6755-496c-8ea8-0fbee6b66026",
+      "Name": "roguesextra"
+    },
+    {
+      "UUID": "c36d595f-70d1-44f1-8ca6-4ad14186f489",
+      "Name": "Shadar-Kai"
+    },
+    {
+      "UUID": "6ebfb9f9-fa67-4271-810e-4d14463da609",
+      "Name": "Thanator"
+    },
+    {
+      "UUID": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+      "Name": "WarlockUndead"
+    },
+    {
+      "UUID": "242831ad-d94c-483a-a8bf-ecd5d23f9b4e",
+      "Name": "WarlockUndead5eSpells"
+    },
+    {
+      "UUID": "eaf83c50-1f22-4ce8-a825-25f07caf9faa",
+      "Name": "Whispers of the Fey: Changelings (Race)"
+    },
+    {
+      "UUID": "ca81f091-bf1b-4bb6-90dd-1c4ef83fd798",
+      "Name": "Whispers of the Fey: Goblins (Race)"
+    },
+    {
+      "UUID": "1aa49383-9208-4cc0-96b6-e827819d71d0",
+      "Name": "WitchElf"
+    },
+    {
+      "UUID": "2527857d-510f-4587-828f-40a82d4758f7",
+      "Name": "WoWDeathKnightClass"
+    },
+    {
+      "UUID": "8f0d9a35-6d42-4ffd-a277-574f5744480a",
+      "Name": "WoWDemonHunterClass"
+    },
+    {
+      "UUID": "09fd93a3-c07b-49ae-854c-67b11a85a397",
+      "Name": "BG3 ReLeveled"
+    },
+    {
+      "UUID": "3d69aif6-3437-11ee-be56-0242ac120002",
+      "Name": "Immersive_AI"
+    }
+  ]
+}
